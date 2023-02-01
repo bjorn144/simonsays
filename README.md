@@ -8,8 +8,10 @@
 [Hér er myndband af virkni](https://youtu.be/X4_KcfQswak)
 <br>
 [Hér er mynd inní kassa ](https://github.com/bjorn144/simonsays/blob/main/IMG_0007.HEIC)
-[Hér er mynd fyrir utan kassa ](https://github.com/bjorn144/simonsays/blob/main/IMG_0008.HEIC)
-[Hér er mynd inní kassa ](https://github.com/bjorn144/simonsays/blob/main/IMG_0009.HEIC)
+<br>
+[Hér er mynd](https://github.com/bjorn144/simonsays/blob/main/IMG_0008.HEIC)
+<br>
+[Hér er mynd af kassanum ](https://github.com/bjorn144/simonsays/blob/main/IMG_0009.HEIC)
 
 
 
