@@ -3,14 +3,20 @@
 ## Björn Kakali
 ### í þessu verkefni áttum við að búa til simon says leikin.
 
-[Hér er linkur á kóðaskrá]()
+[Hér er linkur á kóðaskrá](https://github.com/bjorn144/simonsays/blob/main/Simon.ino)
+<br>
+[Hér er myndband](https://youtu.be/X4_KcfQswak)
+<br>
+![Hér eru myndir]()
 
 
 
 
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 
 Búðu til public Github geymslu (repository) með heitinu SimonSays og skrifaðu skýrsluna í readme.md með markdown 
