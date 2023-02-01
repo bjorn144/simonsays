@@ -13,25 +13,8 @@
 <br>
 [Hér er mynd af kassanum ](https://github.com/bjorn144/simonsays/blob/main/IMG_0009.HEIC)
 <br>
-[Hönnunarteikning (.svg) af kassa.]()
+[Hönnunarteikning (.svg) af kassa.](https://github.com/bjorn144/simonsays/blob/main/verkefni2.svg)
 
 
 
 
-
-
-<br>
-<br>
-<br>
-<br>
-
-
-Búðu til public Github geymslu (repository) með heitinu SimonSays og skrifaðu skýrsluna í readme.md með markdown 
-Skýrslan þarf að innihalda eftirfarandi:
-
-Höfundur og örstutt lýsing á verkefni.
-Tengil á kóðaskrá.
-Tengil á myndband af virkni (spilun) lokafurðar.
-Ljósmyndir af lokaafurð (inní kassa og utan)
-Ljósmyndir af lóðun (báðar hliðar).
-Hönnunarteikning (.svg) af kassa.
